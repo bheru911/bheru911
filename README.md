@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheru-singh-panwar-9380893b1/)
 [![Red Hat Certified](https://img.shields.io/badge/RHCSA-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/badges/a9c8e508-7de7-4cc0-b105-0d3ebcaeca11/public_url)
-
+[![Terraform Associate](https://img.shields.io/badge/Terraform_Associate_004-Certified-844FBA?style=for-the-badge&logo=terraform&logoColor=white)]([YOUR_CREDLY_BADGE_URL](https://www.credly.com/badges/94335ffa-654e-4c36-b4ed-efd8aa6dda29/public_url))
 </div>
 
 ---
